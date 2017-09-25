@@ -10,3 +10,5 @@ Available make tasks:
 
 By default, one of the division node tests will fail. This is used as an example of a failing test and to demonstrate
 making test cases appropriate for specific classes.
+
+**Requires the g++ compiler**
